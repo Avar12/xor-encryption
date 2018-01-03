@@ -7,12 +7,11 @@ import java.io.*;
  */
 public class Encryption {
 
-
     public Encryption() {
         System.out.println("Happy encrypting !");
     }
 
-
+    
     public void encrypt(String input, String output, String key) throws IOException {
 
 
