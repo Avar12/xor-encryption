@@ -1,10 +1,5 @@
 package de.avar.xor;
 
-/**
- * Created by Avar12 on 03.01.2018.
- */
-
-
 import java.io.*;
 
 /**
